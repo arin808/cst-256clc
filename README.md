@@ -4,4 +4,4 @@ Arin Aihara
 Austin Driver
 Chris King
 
-This repository contains all of our uploaded files for our CST-256 milestone project at milestone 5
+This repository contains all of our uploaded files for our CST-256 milestone project at milestone 6
